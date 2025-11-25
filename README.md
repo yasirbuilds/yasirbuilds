@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Yasir
 
-<!--
-**yasirbuilds/yasirbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer experienced in React, Next.js, Shopify Hydrogen, and Sanity. I focus on building clean, performant, and user-focused web applications. I occasionally work with Node.js and Express when backend support is needed.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create modern frontend solutions, ecommerce storefronts, and CMS powered experiences with maintainable architecture and scalable code.
+
+## Tech Skills
+
+React
+Next.js
+Tailwind CSS
+Shopify Hydrogen
+Sanity CMS
+Node.js and Express
