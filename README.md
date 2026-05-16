@@ -1,6 +1,6 @@
 # Hi there, I'm Yasir
 
-I am a frontend developer experienced in React, Next.js, Shopify Hydrogen, and Sanity. I focus on building clean, performant, and user-focused web applications. I occasionally work with Node.js and Express when backend support is needed.
+I am a Full Stack developer experienced in React, Next.js, Shopify Hydrogen, Sanity, Nodejs and PostgreSQL. I focus on building clean, performant, and user-focused web applications. I occasionally work with Node.js and Express when backend support is needed.
 
 I care about writing maintainable code, building scalable structures, and delivering digital products that are not only visually strong but also optimized for real business needs. My work often involves translating ideas into functional, production-ready applications while ensuring good developer experience and clean structure.
 
